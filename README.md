@@ -10,7 +10,7 @@ This repository holds the installer and the user guide only, with no source code
 
 ## Download
 
-The Windows installer, **PublishLens-1.0-Windows.zip**, will be in the [Releases](../../releases) section of this repository. It is not uploaded yet.
+**[Download PublishLens-1.0-Windows.zip](https://github.com/phanivangareddy/publishlens-setup/releases/latest/download/PublishLens-1.0-Windows.zip)** (about 9.6 MB), or see [all releases](../../releases).
 
 ## Get started
 
