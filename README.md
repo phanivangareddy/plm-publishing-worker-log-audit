@@ -1,8 +1,8 @@
-# PublishLens
+# PLM Publishing Worker Log Audit
 
-**by Phani Vanga**
+**by Phani Vanga**  ·  App name: PublishLens
 
-PublishLens reads publishing logs from Windchill visualization workers. It shows how many documents were published, which ones failed, why they failed, and where the time went.
+This free Windows app reads publishing logs from Windchill visualization workers. It shows how many documents were published, which ones failed, why they failed, and where the time went.
 
 It runs only on your own Windows PC. It needs no internet connection, sends nothing anywhere and uses no AI service.
 
