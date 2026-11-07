@@ -1,0 +1,17 @@
+PublishLens 1.0
+Copyright (c) 2026 Phani Vanga. All rights reserved.
+
+Free to use. You may use PublishLens at no cost, at work or at home, and share
+this unchanged installer with others.
+
+You may not modify, decompile, reverse engineer or resell PublishLens, or share
+changed copies of it.
+
+PublishLens is provided as it is, without any warranty. Check its results before
+acting on them. The author is not responsible for any loss from using it.
+
+PublishLens is not made by, or connected with, PTC. Windchill, Creo and Creo View
+are trademarks of PTC Inc. SolidWorks is a trademark of Dassault Systemes.
+Microsoft Office, Word, Excel and PowerPoint are trademarks of Microsoft.
+
+Support, requests and feedback: phani.vanga@outlook.com
